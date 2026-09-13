@@ -40,3 +40,5 @@ python finder.py --refresh
 ```
 
 By default, cached data is stored in `yield_cache.json` in the current directory and is considered fresh for 10 minutes.
+
+<!-- last-checked: 2026-09-13 -->
